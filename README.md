@@ -9,7 +9,7 @@ Light weight JSON File System DB
 </ul>
 
 <ul>
-	<li><b>Reading JSON Documents</b> : Include it in your application by adding <b>include('jsonDB/jsonDB.php')</b> in your page to. This will show all your. JSON documents available in db folder</li>	
+	<li><b>Reading JSON Documents</b> : Include it in your application by adding <b>include('jsonDB/jsonDB.php')</b> in your page. This will show all your. JSON documents available in db folder</li>	
 </ul>
 	
 <ul>
