@@ -26,5 +26,4 @@ Light weight JSON File System DB
 	<li>Follow : https://twitter.com/MrMendiratta</li>
 </ul>
 
-#####Scope of Improvement
-- Saving both JSON OBJECT & JSON OBJECT ARRAY (Need to work on JSON file updation)
+- ######Scope of Improvement : Saving both JSON OBJECT & JSON OBJECT ARRAY (Need to work on JSON file updation)
