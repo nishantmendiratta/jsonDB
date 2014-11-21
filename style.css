@@ -1,0 +1,64 @@
+		body{
+			margin: 0 auto;
+			font-family: fantasy;
+		}
+		.file_anchor{
+			text-decoration: none;
+			font-size: 18px;
+			margin-left: 12px;
+			margin-top: 12px;
+		}
+		.container{
+			margin: 0 25px;
+		}
+		
+		.app{
+			margin-top: 25px;
+			margin-left: 25px;
+			margin-right: 25px;
+		}
+		.container h3{
+			font-variant: small-caps;
+		}
+
+		.container strong{
+			font-variant: small-caps;
+		}
+
+		.container pre{
+			color: #6c2016;
+		}
+
+		.container ul li{
+			list-style-type: decimal-leading-zero;
+		}
+
+		.container button{
+			border: 5px solid #DCDCDC;
+			background: #FFF;
+			font-size: 20px;
+			cursor: pointer;
+			font-family: monospace;
+		    transition: all 0.5s ease;
+		    padding: 10px;
+		}
+
+		.success_msg{
+			position : absolute;    
+		    width    : 100px;
+		    height   : 16px;
+		    left     : 50%;
+		    top      : 50%;
+		    margin-left : -100px; 
+		    margin-top  : -100px; 
+		    background: #35656c;
+		    box-shadow: 5px 5px #DCDCDC;
+		    color: #FFF;
+		    text-align: center;
+		    padding: 25px;
+		}
+
+		.container button:hover{
+			background: #35656c;
+			color: #FFF;
+		}
